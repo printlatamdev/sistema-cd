@@ -1,0 +1,63 @@
+[
+    {
+        "title": "Inicio",
+        "url": "/",
+        "children": []
+    },
+    {
+        "title": "Proyectos",
+        "url": "#",
+        "children": [
+            {
+                "title": "Lista de Proyectos",
+                "url": "/proyectos"
+            },
+            {
+                "title": "Crear Proyecto",
+                "url": "/proyectos/create"
+            }
+        ]
+    },
+    {
+        "title": "Empresas",
+        "url": "#",
+        "children": [
+            {
+                "title": "Lista de Empresas",
+                "url": "/empresas"
+            },
+            {
+                "title": "Crear Empresa",
+                "url": "/empresas/create"
+            }
+        ]
+    },
+    {
+        "title": "Marcas",
+        "url": "#",
+        "children": [
+            {
+                "title": "Lista de Marcas",
+                "url": "/marcas"
+            },
+            {
+                "title": "Crear Marca",
+                "url": "/marcas/create"
+            }
+        ]
+    },
+    {
+        "title": "Muebles",
+        "url": "#",
+        "children": [
+            {
+                "title": "Lista de Muebles",
+                "url": "/muebles"
+            },
+            {
+                "title": "Crear Mueble",
+                "url": "/muebles/create"
+            }
+        ]
+    }
+]
